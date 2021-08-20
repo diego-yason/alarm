@@ -1,0 +1,11 @@
+{
+    "manifest_version": 3,
+    "name": "Alarm by KingMarine",
+    "version": "0.0.1",
+    "permissions": [
+        "storage"
+    ],
+    "action": {
+        "default_popup": "popup.html"
+    }
+}
