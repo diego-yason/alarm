@@ -1,6 +1,6 @@
 <form>
     <input type="text" name="title" id="name" />
-    <label for="name">Alarm Name</label>
+    <label for="name">Alarm Name</label><br>
     <input type="time" name="time" id="time" />
     <label for="time">Time</label>
     <div class="week">
