@@ -5,5 +5,3 @@
 export async function createAlarm(stringTime) {
     // todo: redo
 }
-
-(new Date).getut
