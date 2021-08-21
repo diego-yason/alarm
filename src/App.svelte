@@ -1,5 +1,6 @@
 <script>
     import AlarmList from "./components/AlarmList.svelte";
+    import NewAlarm from "./components/NewAlarm.svelte";
 </script>
 
 <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap"rel="stylesheet"/>
@@ -7,6 +8,8 @@
 <body>
     <h1 id="title">Alarms</h1>
     <AlarmList />
+    <h1 class="title">New Alarms</h1>
+    <NewAlarm />
 </body>
 
 <style lang="scss">
