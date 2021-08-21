@@ -1,3 +1,5 @@
+<link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap" rel="stylesheet">
+
 <script>
     import Alarm from "./components/Alarm.svelte";
 </script>
