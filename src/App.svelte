@@ -14,6 +14,8 @@
 
         h1 {
             text-align: center;
+            font-family: 'Open Sans', sans-serif;
+            font-size: 3em;
         }
     }
 </style>
