@@ -1,0 +1,12 @@
+{
+    "name": "Alarm by KingMarine",
+    "version": "1.0",
+    "description": "Basically a notification extension",
+    "permissions": [
+        "storage"
+    ],
+    "browser_action": {
+      "default_popup": "popup.html"
+    },
+    "manifest_version": 3
+}
