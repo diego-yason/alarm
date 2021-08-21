@@ -14,8 +14,8 @@
 
 <style lang="scss">
     body {
-        min-width: 250px;
-        min-height: 400px;
+        width: 500px;
+        height: 400px;
 
         h1 {
             text-align: center;
