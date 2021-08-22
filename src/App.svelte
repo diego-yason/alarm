@@ -14,7 +14,7 @@
 
 <style lang="scss">
     body {
-        width: 500px;
+        width: 300px;
         height: 400px;
 
         h1 {
