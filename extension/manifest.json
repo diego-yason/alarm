@@ -7,6 +7,9 @@
         "alarms",
         "notifications"
     ],
+    "background": {
+        "service_worker": "background.js"
+    },
     "action": {
         "default_popup": "popup.html"
     },
